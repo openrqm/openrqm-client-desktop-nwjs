@@ -24,7 +24,7 @@
     "@angular/router": "^9.1.7",
     "@ckeditor/ckeditor5-angular": "^1.2.1",
     "@ckeditor/ckeditor5-build-inline": "^15.0.0",
-    "@ckeditor/ckeditor5-image": "^18.0.0",
+    "@ckeditor/ckeditor5-image": "^27.0.0",
     "@ckeditor/ckeditor5-table": "^18.0.0",
     "@ckeditor/ckeditor5-upload": "^16.0.0",
     "@fortawesome/angular-fontawesome": "^0.5.0",
