@@ -36,7 +36,7 @@
     "jquery": "^3.5.0",
     "jquery-ui-dist": "^1.12.1",
     "js-sha512": "^0.8.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "ngx-material-file-input": "^2.1.1",
     "ngx-treeview": "^6.0.2",
     "openrqm-api": "^1.0.23",
